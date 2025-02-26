@@ -1,0 +1,5 @@
+# Explanation of cde change for LSTM
+
+# changed data size so that y_test and y_pred is the same in related LSTM 
+# excluded the first row  and incuded 
+#i think linear Regression perform best as MAE,MSE,RMSE are lower and R2 Score is close to 1
